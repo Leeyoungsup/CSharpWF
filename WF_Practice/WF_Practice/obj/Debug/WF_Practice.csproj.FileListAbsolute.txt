@@ -1,0 +1,10 @@
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\bin\Debug\WF_Practice.exe.config
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\bin\Debug\WF_Practice.exe
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\bin\Debug\WF_Practice.pdb
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.csprojAssemblyReference.cache
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.Form1.resources
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.Properties.Resources.resources
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.csproj.GenerateResource.cache
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.csproj.CoreCompileInputs.cache
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.exe
+C:\Users\lys\Desktop\SHT\CSharpWF\WF_Practice\WF_Practice\obj\Debug\WF_Practice.pdb
